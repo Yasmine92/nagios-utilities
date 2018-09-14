@@ -1,2 +1,2 @@
 # nagios-utilities
-Nagios scripts that are usefulf for everyday tasks
+Nagios scripts that are useful for everyday tasks
